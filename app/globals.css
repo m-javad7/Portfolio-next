@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  background-color: #191d2b;
+  color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: IranSans;
+  src: url(../public/assests/fonts/IRANSans-Medium-web.woff2);
+}
+@font-face {
+  font-family: IranSansMedium;
+  src: url(/public/assests/fonts/IRANSans-web.woff2);
+}
+
+* {
+  font-family: IranSans;
+}
+
+html {
+  direction: rtl;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  height: 2px;
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a1a1a1;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-corner {
+  visibility: hidden;
+}
+.shape{
+clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
+
+}
