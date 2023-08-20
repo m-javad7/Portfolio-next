@@ -4,7 +4,7 @@ import Link from "next/link"
 export const About =()=>{
 
     return(
-        <div className="w-3/4 md:w-1/2">
+        <div className="w-3/4 md:w-1/2 xl:mr-12 xl:mt-10">
            <div className="mt-12 md:mt-0">
            <h1 className="text-3xl flex flex-col text-center mb-10 xl:text-4xl">
              سلام،من  
