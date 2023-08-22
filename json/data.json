@@ -1,0 +1,143 @@
+{
+    "information": [
+      {
+        "experience": 7,
+        "projects": 10,
+        "client": 1,
+        "learn": "TS",
+        "skills": [
+          {
+            "id": 1,
+            "skill": "React js",
+            "level": 65
+          },
+          {
+            "id": 2,
+            "skill": "JavaScript",
+            "level": 60
+          },
+          {
+            "id": 3,
+            "skill": "Next js",
+            "level": 45
+          },
+          {
+            "id": 4,
+            "skill": "Tailwind",
+            "level": 85
+          },
+          {
+            "id": 5,
+            "skill": "git",
+            "level": 60
+          },
+          {
+            "id": 6,
+            "skill": "Css",
+            "level": 90
+          },
+          {
+            "id": 7,
+            "skill": "Html",
+            "level": 90
+          },
+          {
+            "id": 8,
+            "skill": "Photoshop",
+            "level": 60
+          }
+        ],
+        "job":[
+            {
+                "id":1,
+                "company": "تیام ارتباط",
+                "start": 1397,
+                "end": 1398, 
+                "position": "adsl, TD-LTE پشتیبان فروش و فنی اینترنت",
+                "text": ""
+            },
+            {
+                "id":2,
+                "company": "سیستم های نوین ارتباطات سپنتا",
+                "start": 1398,
+                "end": 1399, 
+                "position": " adsl پشتیبان فنی اینترنت",
+                "text": ""
+            },
+            {
+                "id":3,
+                "company": "خدمات اول مخابرات ایران",
+                "start": 1399,
+                "end": 1400, 
+                "position": "adsl, Siptrunk, p2p, پشتیبان فنی اینترنت"
+            }
+        ],
+        "portfolio":[
+            {
+                "id":1,
+                "name": "فیلیمو",
+                "git": "https://github.com/m-javad7/Filimo-Project",
+                "vercel": "https://filimo-project.vercel.app/",
+                "pic": "",
+                "text": "",
+                "lang": "Next, React, Redux, Tailwind, Swiper"
+            },
+            {
+                "id":2,
+                "name": "موزیک پلیر",
+                "git": "https://github.com/m-javad7/music-player",
+                "vercel": "https://music-player-m-javad.vercel.app",
+                "pic": "",
+                "text": "",
+                "lang": "React, Tailwind"
+            },
+            {
+                "id":3,
+                "name": "لیست مخاطبین",
+                "git": "https://github.com/m-javad7/Contact-List-v2",
+                "vercel": "",
+                "pic": "",
+                "text": "",
+                "lang": "React, Tailwind, React router"
+            },
+            {
+                "id":4,
+                "name": "فست فود",
+                "git": "https://github.com/m-javad7/Fast-Food",
+                "vercel": "",
+                "pic": "",
+                "text": "",
+                "lang": "React, Next, Reac-Router"
+            },
+            {
+                "id":5,
+                "name": "To D List",
+                "git": "https://github.com/m-javad7/To-Do-List",
+                "vercel": "https://to-do-list-lac-nu.vercel.app/",
+                "pic": "",
+                "text": "",
+                "lang": "Html, Css, JavaScript"
+            },
+            {
+                "id":6,
+                "name": "پرتفولیو",
+                "git": "https://github.com/m-javad7/Portfolio",
+                "vercel": "https://portfolio-77.vercel.app/",
+                "pic": "",
+                "text": "",
+                "lang": "Html, Sass, JavaScript"
+            },
+            {
+                "id":7,
+                "name": "لیزینگ خودرو",
+                "git": "https://github.com/Ziba-Hemmati/BeLeasing-Project",
+                "vercel": "https://be-leasing-project.vercel.app/",
+                "pic": "",
+                "text": "",
+                "lang": "Html, Css, JavaScript"
+            }
+        ]
+        
+      }
+    ]
+}
