@@ -18,25 +18,25 @@ export const Nav = () => {
         <Link href="/">
           <FontAwesomeIcon
             icon={faHome}
-            className={`w-10 h-10 rounded-full bg-gray-400 p-2 hover:text-slate-200 text-gray-700 ${pathname === '/' ? 'bg-green-600' : ''}`}
+            className={`w-8 h-8 rounded-full bg-gray-400 p-3 hover:text-slate-200 text-gray-700 ${pathname === '/' ? 'bg-green-600' : ''}`}
           />
         </Link>
         <Link href="/about">
           <FontAwesomeIcon
             icon={faUser}
-            className={`w-10 h-10 rounded-full bg-gray-400 p-2 hover:text-slate-200 text-gray-700 ${pathname === '/about' ? 'bg-green-600' : ''}`}
+            className={`w-8 h-8 rounded-full bg-gray-400 p-3 hover:text-slate-200 text-gray-700 ${pathname === '/about' ? 'bg-green-600' : ''}`}
           />
         </Link>
         <Link href="/project">
           <FontAwesomeIcon
             icon={faBriefcase}
-            className={`w-10 h-10 rounded-full bg-gray-400 p-2 hover:text-slate-200 text-gray-700 ${pathname === '/project' ? 'bg-green-600' : ''}`}
+            className={`w-8 h-8 rounded-full bg-gray-400 p-3 hover:text-slate-200 text-gray-700 ${pathname === '/project' ? 'bg-green-600' : ''}`}
           />
         </Link>
         <Link href="/contact">
           <FontAwesomeIcon
             icon={faEnvelopeOpen}
-            className={`w-10 h-10 rounded-full bg-gray-400 p-2 hover:text-slate-200 text-gray-700 ${pathname === '/contact' ? 'bg-green-600' : ''}`}
+            className={`w-8 h-8 rounded-full bg-gray-400 p-3 hover:text-slate-200 text-gray-700 ${pathname === '/contact' ? 'bg-green-600' : ''}`}
           />
         </Link>
       </div>
