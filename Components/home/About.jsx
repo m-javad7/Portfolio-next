@@ -13,7 +13,7 @@ export const About =()=>{
             </h1>
             <h3 className="pt-10 text-sm md:pr-20 xl:mr-14">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد</h3>
             <div className="my-12 text-center xl:mt-24">
-                <Link href="./" className="rounded-full border border-green-600 p-4 hover:bg-green-600">
+                <Link href="./about" className="rounded-full border border-green-600 p-4 hover:bg-green-600">
                     مشاهده رزومه
                 </Link>
             </div>

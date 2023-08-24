@@ -3,9 +3,9 @@ export const Skills = ({ data }) => {
   
     return (
       <div className="mt-10">
-        <h2 className="text-center text-3xl">
-          مهارت‌های<span className="text-green-600"> من </span>
-        </h2>
+        <h3 className="text-center text-3xl">
+          مهارت‌های من
+        </h3>
         <div className="w-4/5 flex flex-wrap mx-auto mt-8 ">
           {info.map(({ skills }) =>
             skills.map(({ id, skill, level }) => (
