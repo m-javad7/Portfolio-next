@@ -54,7 +54,7 @@
                 "start": 1397,
                 "end": 1398, 
                 "position": "adsl, TD-LTE پشتیبان فروش و فنی اینترنت",
-                "text": ""
+                "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد                "
             },
             {
                 "id":2,
@@ -78,7 +78,7 @@
                 "name": "فیلیمو",
                 "git": "https://github.com/m-javad7/Filimo-Project",
                 "vercel": "https://filimo-project.vercel.app/",
-                "pic": "",
+                "pic": "https://s30.picofile.com/file/8467443650/filimo.png",
                 "text": "",
                 "lang": "Next, React, Redux, Tailwind, Swiper"
             },
@@ -87,7 +87,7 @@
                 "name": "موزیک پلیر",
                 "git": "https://github.com/m-javad7/music-player",
                 "vercel": "https://music-player-m-javad.vercel.app",
-                "pic": "",
+                "pic": "https://s30.picofile.com/file/8467443668/music.png",
                 "text": "",
                 "lang": "React, Tailwind"
             },
@@ -96,7 +96,7 @@
                 "name": "لیست مخاطبین",
                 "git": "https://github.com/m-javad7/Contact-List-v2",
                 "vercel": "",
-                "pic": "",
+                "pic": "https://s30.picofile.com/file/8467443676/pic.png",
                 "text": "",
                 "lang": "React, Tailwind, React router"
             },
@@ -105,7 +105,7 @@
                 "name": "فست فود",
                 "git": "https://github.com/m-javad7/Fast-Food",
                 "vercel": "",
-                "pic": "",
+                "pic": "https://s30.picofile.com/file/8467443642/fastfood.png",
                 "text": "",
                 "lang": "React, Next, Reac-Router"
             },
@@ -114,7 +114,7 @@
                 "name": "To D List",
                 "git": "https://github.com/m-javad7/To-Do-List",
                 "vercel": "https://to-do-list-lac-nu.vercel.app/",
-                "pic": "",
+                "pic": "https://s30.picofile.com/file/8467443834/do.png",
                 "text": "",
                 "lang": "Html, Css, JavaScript"
             },
@@ -123,7 +123,7 @@
                 "name": "پرتفولیو",
                 "git": "https://github.com/m-javad7/Portfolio",
                 "vercel": "https://portfolio-77.vercel.app/",
-                "pic": "",
+                "pic": "https://s30.picofile.com/file/8467443684/portfolio.png",
                 "text": "",
                 "lang": "Html, Sass, JavaScript"
             },
@@ -132,7 +132,7 @@
                 "name": "لیزینگ خودرو",
                 "git": "https://github.com/Ziba-Hemmati/BeLeasing-Project",
                 "vercel": "https://be-leasing-project.vercel.app/",
-                "pic": "",
+                "pic": "https://s31.picofile.com/file/8467443634/Beleasing.png",
                 "text": "",
                 "lang": "Html, Css, JavaScript"
             }
