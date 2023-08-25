@@ -6,10 +6,10 @@ export const Skills = ({ data }) => {
         <h3 className="text-center text-3xl">
           مهارت‌های من
         </h3>
-        <div className="w-4/5 flex flex-wrap mx-auto mt-8 ">
+        <div className="w-4/5 flex flex-col md:flex-row md:flex-wrap mx-auto mt-8 ">
           {info.map(({ skills }) =>
             skills.map(({ id, skill, level }) => (
-              <div key={id} className="w-1/2 text-xl pl-5 py-4">
+              <div key={id} className="md:w-1/2 text-xl pl-5 py-4">
                 {skill}
                 <div className="flex items-center">
                     <span className="text-gray-400">
