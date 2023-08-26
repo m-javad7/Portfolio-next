@@ -23,7 +23,7 @@ export const WorkExperience = ({ data }) => {
                   className="rounded-full p-4 text-xl bg-green-500 "
                 />
                 <div className="mr-6">
-                  <div className="w-20 p-1 bg-gray-700 rounded-3xl text-xs text-center">
+                  <div className="w-20 p-1 bg-gray-400 rounded-3xl text-xs text-center">
                     {start}-{end}
                   </div>
                   <div className="mt-2">
