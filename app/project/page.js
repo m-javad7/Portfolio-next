@@ -1,5 +1,5 @@
-import MyPortfolio from "@/Components/project/MyPortfolio";
-import { Portfolio } from "@/Components/project/Portfolio";
+import MyPortfolio from "@/Components/proj/MyPortfolio";
+import { Portfolio } from "@/Components/proj/Portfolio";
 import { getLocalData } from "@/lib/localdata";
 
 const Project = async () => {
