@@ -136,7 +136,15 @@
                 "text": "",
                 "lang": "Html, Css, JavaScript"
             }
-        ]
+        ],
+        "social": [
+          {
+          "telegeram": "https://t.me/m_javad77",
+          "whatsapp" : "https://Wa.me/0989162149083",
+          "linkedin" : "https://www.linkedin.com/in/mj-darezereshki/",
+          "github": "https://github.com/m-javad7"
+          }
+                ]
         
       }
     ]
