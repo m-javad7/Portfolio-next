@@ -5,6 +5,10 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  purge: [
+    "./pages/**/*.{js, ts, jsx, tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}"
+  ],
   darkMode: "class",
   theme: {
     fontFamily: {
@@ -18,6 +22,9 @@ module.exports = {
       lg: "1024px",
       xl: "1400px",
     },
+    extend: {},
+  },
+  variants: {
     extend: {},
   },
   plugins: [],
