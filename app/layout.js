@@ -1,5 +1,5 @@
-import { Suspense } from 'react'
 import './globals.css'
+import { Suspense } from 'react'
 import { Inter } from 'next/font/google'
 import { Nav } from '@/Components/nav/Nav'
 import { Providers } from '@/Components/providers'
