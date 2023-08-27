@@ -27,7 +27,7 @@ export const WorkExperience = ({ data }) => {
                     {start}-{end}
                   </div>
                   <div className="mt-2">
-                    <span className="text-xs text-gray-400"> نام شرکت:</span>{" "}
+                    <span className="text-xs text-gray-400"> نام شرکت:</span>
                     {company}
                     <div className=" mt-1">
                       <span className="text-xs text-gray-400">موقعیت شغلی: </span>
