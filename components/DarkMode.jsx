@@ -9,6 +9,9 @@ const DarkModeButton = () => {
 
   useEffect(() => {
     setMounted(true);
+    if (!theme) {
+      setTheme('dark');
+    }
   }, []);
 
   if (!mounted) {
