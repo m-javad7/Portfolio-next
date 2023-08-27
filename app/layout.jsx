@@ -1,10 +1,10 @@
 import './globals.css'
 import { Suspense } from 'react'
 import { Inter } from 'next/font/google'
-import { Nav } from '@/Components/nav/Nav'
-import { Providers } from '@/Components/providers'
+import { Nav } from '@/components/nav/Nav'
+import { Providers } from '@/components/providers'
 import { Loading } from './Loading'
-import DarkModeButton from '@/Components/DarkMode'
+import DarkModeButton from '@/components/DarkMode'
 
 const inter = Inter({ subsets: ['latin'] })
 

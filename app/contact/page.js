@@ -1,6 +1,6 @@
-import { Communicate } from "@/Components/contact/Communicate ";
-import { ContactMe } from "@/Components/contact/ContactMe";
-import { Social } from "@/Components/contact/Social";
+import { Communicate } from "@/components/contact/Communicate ";
+import { ContactMe } from "@/components/contact/ContactMe";
+import { Social } from "@/components/contact/Social";
 import { getLocalData } from "@/lib/localdata";
 
 const Contact = async() =>{

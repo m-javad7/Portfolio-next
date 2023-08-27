@@ -1,7 +1,7 @@
-import { BtnDownload } from "@/Components/about/BtnDownload";
-import { Experience } from "@/Components/about/Experience";
-import { Skills } from "@/Components/about/Skills";
-import { WorkExperience } from "@/Components/about/WorkExperience";
+import { BtnDownload } from "@/components/about/BtnDownload";
+import { Experience } from "@/components/about/Experience";
+import { Skills } from "@/components/about/Skills";
+import { WorkExperience } from "@/components/about/WorkExperience";
 import { getLocalData } from "@/lib/localdata";
 
 const About = async () => {

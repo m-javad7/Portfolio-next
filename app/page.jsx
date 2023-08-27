@@ -1,7 +1,6 @@
 'use client'
-import DarkModeButton from "@/Components/DarkMode";
-import { About } from "@/Components/mainpage/About";
-import { Cardpic } from "@/Components/mainpage/Cardpic";
+import { About } from "@/components/mainpage/About";
+import { Cardpic } from "@/components/mainpage/Cardpic";
 
 export default function Home() {
   return (
