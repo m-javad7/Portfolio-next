@@ -1,11 +1,15 @@
 import { ContactInput } from "./ContactInput";
 import { ContactText } from "./ContactText";
+import {Social} from "@/components/contact/Social";
 
-export const Communicate = () => {
+export const Communicate = ({data}) => {
   return (
-    <div className="w-5/6 mx-auto mt-28 flex flex-col md:flex-row">
+    <div className="w-5/6 mx-auto mt-24 flex flex-col lg:justify-evenly md:items-center lg:flex-row">
+        <div className="flex flex-col">
             <ContactText/>
-            <ContactInput/>
+            <Social data={data}/>
+        </div>
+        <ContactInput/>
     </div>
   );
 };
