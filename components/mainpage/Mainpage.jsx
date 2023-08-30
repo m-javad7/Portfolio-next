@@ -8,7 +8,7 @@ export const Mainpage =()=>{
     return(
         <div className="w-3/4 md:w-1/2 xl:mr-12 mt-10">
            <div className="mt-12 md:mt-0 w-11/12 mx-auto">
-           <h1 className="text-3xl xl:text-4xl md:text-2xl flex flex-col text-center mb-10 ">
+           <h1 className="text-3xl xl:text-4xl md:text-2xl flex flex-col text-center mt-44 md:mt-0 mb-10 ">
              سلام،من  
              <span className="text-green-600 dark:text-green-500">محمدجواد دره زرشکی </span>
               توسعه دهنده وب هستم.
