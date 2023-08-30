@@ -8,7 +8,7 @@ import {
   
 export const ContactText = () =>{
     return(
-        <div className="md:w-1/2">
+        <div>
               <h3 className="text-2xl font-bold">ارتباط با من</h3>
       <h3 className="text-sm text-gray-400 mt-4">
         از طریق راه های ارتباطی زیر میتوانید با من در ارتباط باشد.

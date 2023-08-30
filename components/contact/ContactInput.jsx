@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 export const ContactInput = () =>{
     return(
-       <div className="md:w-1/2 flex flex-col justify-center items-center my-24 md:my-0">
+       <div className="lg:w-1/2 flex flex-col justify-center items-center mb-28 mt-8 lg:my-0">
          <form action="" className="">
         <div className="flex justify-between">
             <input type="text" className="rounded-3xl px-3 py-5 outline-none  border border-gray-800 placeholder:text-xs w-[48%]" required placeholder="نام خود را وارد کنید."/>

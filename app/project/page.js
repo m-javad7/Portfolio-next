@@ -6,7 +6,7 @@ const Project = async () => {
 const data = await getLocalData();
 
     return (
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center mb-16">
         <MyPortfolio/>
         <Portfolio data={data}/>
       </div>
