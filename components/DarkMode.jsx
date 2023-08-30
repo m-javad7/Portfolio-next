@@ -9,9 +9,8 @@ const DarkModeButton = () => {
 
   useEffect(() => {
     setMounted(true);
-    if (!theme) {
       setTheme('dark');
-    }
+
   }, []);
 
   if (!mounted) {
@@ -19,7 +18,7 @@ const DarkModeButton = () => {
   }
 
   return (
-      <button className='right-4 bottom-10 text-2xl fixed' onClick={e => theme === 'dark' ? setTheme('light') : setTheme('dark')}>
+      <button className='right-4 bottom-[95%] md:bottom-10 text-2xl fixed rounded-full bg-gray-400 p-2' onClick={e => theme === 'dark' ? setTheme('light') : setTheme('dark')}>
         {theme === 'dark' ? <FaSun /> : <FaMoon />}
       </button>
   );
